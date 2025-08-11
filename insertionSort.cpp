@@ -18,7 +18,7 @@ void insertion_sort(int arr[], int n)
     cout << "After Using insertion sort: " << "\n";
     for (int i = 0; i < n; i++)
     {
-        cout << arr[i] << " ";
+        cout << arr[i] << "  ";
     }
     cout << "\n";
 }
